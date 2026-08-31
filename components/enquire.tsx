@@ -5,7 +5,7 @@ import { Reveal } from "./reveal";
 
 export function Enquire() {
   return (
-    <section id="enquire" className="scroll-mt-32 bg-brand text-white">
+    <section id="enquire" className="scroll-mt-20 bg-brand text-white md:scroll-mt-32">
       <div className="mx-auto grid w-full max-w-6xl gap-10 px-5 py-16 sm:px-8 sm:py-24 lg:grid-cols-2 lg:gap-16">
         <Reveal>
           <span className="inline-flex items-center gap-2 text-xs font-semibold uppercase tracking-[0.18em] text-gold-200">

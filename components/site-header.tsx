@@ -98,8 +98,8 @@ export function SiteHeader() {
           </button>
         </div>
 
-        {/* section nav */}
-        <nav className="mx-auto w-full max-w-6xl px-2 sm:px-6">
+        {/* section nav — desktop/tablet only; mobile uses the drawer */}
+        <nav className="mx-auto hidden w-full max-w-6xl px-2 sm:px-6 md:block">
           <ul className="no-scrollbar flex gap-1 overflow-x-auto pb-1">
             {nav.map((n) => (
               <li key={n.id} className="shrink-0">
