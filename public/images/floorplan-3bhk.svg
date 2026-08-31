@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 1000" width="1100" height="1000" role="img" aria-label="3 BHK — Type B · 985 sq.ft carpet floor plan">
+  <rect width="1100" height="1000" fill="#ffffff"/>
+  <rect width="1100" height="1000" fill="#0b2545" opacity=".02"/>
+  <g stroke="#0b2545" stroke-width="7" fill="none">
+    <rect x="70" y="90" width="960" height="760"/>
+  </g>
+  <rect x="70" y="90" width="260" height="120" fill="none" stroke="#0b2545" stroke-width="4" stroke-dasharray="10 8"/>
+         <path d="M70 90 L330 210 M330 90 L70 210" stroke="#c9a227" stroke-width="2" opacity=".5"/><rect x="820" y="610" width="210" height="150" fill="none" stroke="#0b2545" stroke-width="4" stroke-dasharray="10 8"/>
+         <path d="M820 610 L1030 760 M1030 610 L820 760" stroke="#c9a227" stroke-width="2" opacity=".5"/>
+  
+    <g>
+      <rect x="330" y="90" width="480" height="320" fill="#eef2f8" stroke="#0b2545" stroke-width="4"/>
+      <text x="570" y="244" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0b2545">Living / Dining</text>
+      <text x="570" y="272" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#5b6b82">12'0" x 19'0"</text>
+    </g>
+    <g>
+      <rect x="810" y="90" width="220" height="240" fill="#f4f1ea" stroke="#0b2545" stroke-width="4"/>
+      <text x="920" y="204" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0b2545">Kitchen</text>
+      <text x="920" y="232" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#5b6b82">9'0" x 11'0"</text>
+    </g>
+    <g>
+      <rect x="810" y="330" width="220" height="90" fill="#e9e3d6" stroke="#0b2545" stroke-width="4"/>
+      <text x="920" y="369" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0b2545">Utility</text>
+      <text x="920" y="397" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#5b6b82"></text>
+    </g>
+    <g>
+      <rect x="330" y="410" width="300" height="300" fill="#f1ede4" stroke="#0b2545" stroke-width="4"/>
+      <text x="480" y="554" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0b2545">Master Bed</text>
+      <text x="480" y="582" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#5b6b82">12'0" x 13'6"</text>
+    </g>
+    <g>
+      <rect x="630" y="410" width="190" height="300" fill="#f1ede4" stroke="#0b2545" stroke-width="4"/>
+      <text x="725" y="554" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0b2545">Bedroom 2</text>
+      <text x="725" y="582" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#5b6b82">11'0" x 12'0"</text>
+    </g>
+    <g>
+      <rect x="820" y="420" width="210" height="190" fill="#f1ede4" stroke="#0b2545" stroke-width="4"/>
+      <text x="925" y="509" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0b2545">Bedroom 3</text>
+      <text x="925" y="537" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#5b6b82">10'0" x 11'6"</text>
+    </g>
+    <g>
+      <rect x="70" y="470" width="170" height="140" fill="#f4f1ea" stroke="#0b2545" stroke-width="4"/>
+      <text x="155" y="534" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0b2545">M. Bath</text>
+      <text x="155" y="562" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#5b6b82">5'x8'</text>
+    </g>
+    <g>
+      <rect x="70" y="610" width="170" height="140" fill="#f4f1ea" stroke="#0b2545" stroke-width="4"/>
+      <text x="155" y="674" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0b2545">Common Bath</text>
+      <text x="155" y="702" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#5b6b82">5'x8'</text>
+    </g>
+    <g>
+      <rect x="240" y="410" width="90" height="300" fill="#e9e3d6" stroke="#0b2545" stroke-width="4"/>
+      <text x="285" y="554" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#0b2545">Passage</text>
+      <text x="285" y="582" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="18" fill="#5b6b82"></text>
+    </g>
+  <text x="70" y="910" font-family="Georgia,serif" font-size="34" fill="#0b2545">3 BHK — Type B · 985 sq.ft carpet</text>
+  <text x="70" y="946" font-family="Helvetica,Arial,sans-serif" font-size="20" fill="#5b6b82">Indicative layout — not to scale · Yusuf Residency by Surti Developer</text>
+  <line x1="70" y1="882" x2="1030" y2="882" stroke="#c9a227" stroke-width="3"/>
+  <g fill="#0b2545"><circle cx="990" cy="908" r="16"/><path d="M990 884 l10 20 h-20 z" fill="#c9a227"/></g>
+  <text x="990" y="950" text-anchor="middle" font-family="Helvetica" font-size="16" fill="#5b6b82">N</text>
+</svg>

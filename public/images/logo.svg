@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Surti Developer">
+  <rect width="120" height="120" rx="24" fill="#0b2545"/>
+  <path d="M34 84 V50 l13 -10 v44 Z" fill="#c9a227"/>
+  <path d="M54 84 V40 l13 -10 v54 Z" fill="#e6c979"/>
+  <path d="M74 84 V54 l13 -10 v40 Z" fill="#c9a227"/>
+  <rect x="30" y="86" width="60" height="6" rx="3" fill="#e6c979"/>
+</svg>

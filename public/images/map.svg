@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" width="1200" height="820" role="img" aria-label="Location map — Tandalja, Vadodara">
+  <rect width="1200" height="820" fill="#eef3ec"/>
+  <g fill="#e3ebe0">
+    <rect x="40" y="40" width="260" height="200"/><rect x="360" y="60" width="220" height="150"/>
+    <rect x="720" y="40" width="200" height="230"/><rect x="980" y="80" width="180" height="180"/>
+    <rect x="60" y="360" width="220" height="220"/><rect x="900" y="420" width="240" height="260"/>
+    <rect x="420" y="560" width="220" height="200"/>
+  </g>
+  <g stroke="#bcd9c6" stroke-width="2">
+    <line x1="0" y1="0" x2="1200" y2="0"/><line x1="0" y1="70" x2="1200" y2="70"/><line x1="0" y1="140" x2="1200" y2="140"/><line x1="0" y1="210" x2="1200" y2="210"/><line x1="0" y1="280" x2="1200" y2="280"/><line x1="0" y1="350" x2="1200" y2="350"/><line x1="0" y1="420" x2="1200" y2="420"/><line x1="0" y1="490" x2="1200" y2="490"/><line x1="0" y1="560" x2="1200" y2="560"/><line x1="0" y1="630" x2="1200" y2="630"/><line x1="0" y1="700" x2="1200" y2="700"/><line x1="0" y1="770" x2="1200" y2="770"/>
+    <line x1="0" y1="0" x2="0" y2="820"/><line x1="70" y1="0" x2="70" y2="820"/><line x1="140" y1="0" x2="140" y2="820"/><line x1="210" y1="0" x2="210" y2="820"/><line x1="280" y1="0" x2="280" y2="820"/><line x1="350" y1="0" x2="350" y2="820"/><line x1="420" y1="0" x2="420" y2="820"/><line x1="490" y1="0" x2="490" y2="820"/><line x1="560" y1="0" x2="560" y2="820"/><line x1="630" y1="0" x2="630" y2="820"/><line x1="700" y1="0" x2="700" y2="820"/><line x1="770" y1="0" x2="770" y2="820"/><line x1="840" y1="0" x2="840" y2="820"/><line x1="910" y1="0" x2="910" y2="820"/><line x1="980" y1="0" x2="980" y2="820"/><line x1="1050" y1="0" x2="1050" y2="820"/><line x1="1120" y1="0" x2="1120" y2="820"/><line x1="1190" y1="0" x2="1190" y2="820"/>
+  </g>
+  <!-- roads -->
+  <path d="M0 470 L1200 430" stroke="#f4d58d" stroke-width="34"/>
+  <path d="M0 470 L1200 430" stroke="#e9be5f" stroke-width="2" stroke-dasharray="16 14"/>
+  <text x="120" y="452" font-family="Helvetica" font-size="18" fill="#8a6d2e">Sun Pharma Road (30 m)</text>
+  <path d="M560 0 L600 820" stroke="#f4d58d" stroke-width="24"/>
+  <path d="M0 700 Q 400 640 1200 720" stroke="#dfe7db" stroke-width="18" fill="none"/>
+  <text x="70" y="690" font-family="Helvetica" font-size="15" fill="#7c8a76">Waghodia – Tandalja Link</text>
+
+  <!-- POIs -->
+  
+    <circle cx="250" cy="250" r="9" fill="#13315c"/>
+    <text x="266" y="244" font-family="Helvetica" font-size="17" font-weight="700" fill="#0b2545">Delhi Public School</text>
+    <text x="266" y="264" font-family="Helvetica" font-size="14" fill="#6b7a8c">1.2 km</text>
+    <circle cx="820" cy="250" r="9" fill="#13315c"/>
+    <text x="836" y="244" font-family="Helvetica" font-size="17" font-weight="700" fill="#0b2545">Sunrise Hospital</text>
+    <text x="836" y="264" font-family="Helvetica" font-size="14" fill="#6b7a8c">2.0 km</text>
+    <circle cx="1000" cy="520" r="9" fill="#13315c"/>
+    <text x="1016" y="514" font-family="Helvetica" font-size="17" font-weight="700" fill="#0b2545">D-Mart</text>
+    <text x="1016" y="534" font-family="Helvetica" font-size="14" fill="#6b7a8c">2.6 km</text>
+    <circle cx="430" cy="610" r="9" fill="#13315c"/>
+    <text x="446" y="604" font-family="Helvetica" font-size="17" font-weight="700" fill="#0b2545">Tandalja Masjid</text>
+    <text x="446" y="624" font-family="Helvetica" font-size="14" fill="#6b7a8c">0.8 km</text>
+    <circle cx="170" cy="430" r="9" fill="#13315c"/>
+    <text x="186" y="424" font-family="Helvetica" font-size="17" font-weight="700" fill="#0b2545">Vadodara Central</text>
+    <text x="186" y="444" font-family="Helvetica" font-size="14" fill="#6b7a8c">3.4 km</text>
+
+  <!-- project marker -->
+  <g transform="translate(600 470)">
+    <ellipse cx="0" cy="6" rx="26" ry="8" fill="#000" opacity=".15"/>
+    <path d="M0 0 C -34 -46 -22 -92 0 -92 C 22 -92 34 -46 0 0 Z" fill="#c9a227" stroke="#0b2545" stroke-width="4"/>
+    <circle cx="0" cy="-58" r="15" fill="#fff"/>
+    <text x="0" y="-118" text-anchor="middle" font-family="Georgia,serif" font-size="22" font-weight="700" fill="#0b2545">Yusuf Residency</text>
+  </g>
+  <rect x="0" y="786" width="1200" height="34" fill="#0b2545" opacity=".8"/>
+  <text x="20" y="809" font-family="Helvetica" font-size="15" fill="#fff">Tandalja, Vadodara, Gujarat · Indicative map, distances approximate</text>
+</svg>
