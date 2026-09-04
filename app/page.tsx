@@ -1,4 +1,5 @@
 import { Amenities } from "@/components/amenities";
+import { EmiCalculator } from "@/components/emi-calculator";
 import { ConstructionProgress } from "@/components/progress";
 import { Enquire } from "@/components/enquire";
 import { Faq } from "@/components/faq";
@@ -31,6 +32,7 @@ export default function Home() {
         <ConstructionProgress />
         <Location />
         <PaymentPlan />
+        <EmiCalculator />
         <Faq />
         <Enquire />
       </main>

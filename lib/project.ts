@@ -15,6 +15,7 @@ export const nav: NavItem[] = [
   { id: "specifications", label: "Specifications" },
   { id: "progress", label: "Progress" },
   { id: "location", label: "Location" },
+  { id: "emi-calculator", label: "EMI Calculator" },
   { id: "enquire", label: "Enquire" },
 ];
 
@@ -81,6 +82,7 @@ export const project = {
       bath: "2 bath",
       facing: "East / North-East",
       price: "₹ 62.5 Lakh*",
+      priceValue: 6_250_000,
       plan: "/images/floorplan-2bhk.svg",
       note: "Corner home · living opens to the main balcony",
     },
@@ -92,6 +94,7 @@ export const project = {
       bath: "3 bath",
       facing: "West / South-West",
       price: "₹ 91.0 Lakh*",
+      priceValue: 9_100_000,
       plan: "/images/floorplan-3bhk.svg",
       note: "Through home · separate utility + dry balcony",
     },
@@ -266,6 +269,14 @@ export const project = {
     ],
   },
 
+  emiDefaults: {
+    downPaymentPct: 20,
+    interestRate: 8.75,
+    tenureYears: 20,
+    minPrice: 2_000_000,
+    maxPrice: 20_000_000,
+  },
+
   paymentPlan: [
     { stage: "On booking", pct: "10%" },
     { stage: "On agreement (within 30 days)", pct: "15%" },
@@ -295,7 +306,7 @@ export const project = {
     ],
     [
       "Is home-loan financing available?",
-      "Yes — the project is intended for approval with major banks and housing-finance companies. The sales team can arrange a pre-approval in principle.",
+      "Yes — the project is intended for approval with major banks and housing-finance companies. Use the EMI calculator above to estimate your monthly outflow, then the sales team can arrange a pre-approval in principle.",
     ],
   ],
 
